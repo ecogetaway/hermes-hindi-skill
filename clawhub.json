@@ -1,0 +1,12 @@
+{
+  "name": "hindi-drafting",
+  "tagline": "Professional Hindi drafting for Indian startups and SMEs",
+  "description": "Generates professional Hindi documents — business proposals, SIDBI/government applications, investor updates, offer letters, MOUs, and marketing content. Includes industry vocabulary for agritech, fintech, healthtech, and edtech sectors.",
+  "category": "language",
+  "tags": ["hindi", "india", "startup", "government", "business", "language"],
+  "version": "2.0.0",
+  "license": "MIT",
+  "pricing": "free",
+  "support_url": "https://github.com/ecogetaway/hermes-hindi-skill/issues",
+  "homepage": "https://github.com/ecogetaway/hermes-hindi-skill"
+}
